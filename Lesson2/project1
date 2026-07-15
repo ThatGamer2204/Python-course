@@ -1,0 +1,11 @@
+ram="12/08/2010"
+shyam="16/01/2011"
+rohit="18/04/2010"
+arnav="05/07/2010"
+ganesh="13/10/2010"
+
+print("ram's birthday is on",ram)
+print("Shyam's birthday is on",shyam)
+print("rohit's birthday is on",rohit)
+print("arnav's birthday is on",arnav)
+print("ganesh's birthday is on",ganesh)
