@@ -13,3 +13,4 @@ else:
      for i in range(1,x+1):
           lst.append(lst[-1]+lst[-2])
      print(f"Sequence of Fibonacci series till {n} terms is : {lst}")
+print("First 10 prime numbers are")
