@@ -1,0 +1,8 @@
+tuplex=(1,34.45,"Saket",True)
+tuplex=(1,2,3,4,5,6)
+tuplex=tuplex+(9,)
+print(tuplex)
+tuple1=(1,3,2,23,32,50,248,549,50,38753,50)
+print(tuple1.count(50))
+print(tuplex[3:5])
+print(tuple1[:6])
