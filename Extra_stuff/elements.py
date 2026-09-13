@@ -325,6 +325,7 @@ ELEMENTS = {
         257: {"name": "Fermium‑257", "unstable": True}
     },
     "fact": "Discovered in hydrogen bomb debris."
+    },
     101: {
     "name": "Mendelevium",
     "symbol": "Md",
